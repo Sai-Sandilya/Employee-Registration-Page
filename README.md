@@ -40,3 +40,8 @@ Employee-Registration Page project using HTML and JsonPowerDB
    1. [Requirements](#requirements)
    2. [Execution](#execution)
    3. [Website](#website)
+## Introduction
+In this project, you can do the following:
+1. Register a Employee.
+2. Upadte Mobile Number.
+3. Delete a specific Employee record.
