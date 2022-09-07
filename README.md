@@ -46,3 +46,26 @@ In this project, you can do the following:
 2. Update Mobile Number.
 3. Delete a specific Employee record.
 ## Screenshots
+
+![jsonpowerdb homepage](https://user-images.githubusercontent.com/113023181/188866303-ed8794b1-52b0-45bb-a100-aef68442e3d7.png)
+![Put command](https://user-images.githubusercontent.com/113023181/188866376-b0bca126-6c53-433d-8392-26e09fc8610c.png)
+![Get command](https://user-images.githubusercontent.com/113023181/188866448-4b79346f-5dc3-4f81-9a01-a373f52d852b.png)
+![Remove command](https://user-images.githubusercontent.com/113023181/188866485-5e3e8479-a09b-4251-b459-ba689f8f8f63.png)
+![Update command](https://user-images.githubusercontent.com/113023181/188866528-b28f7365-a9d0-4e1f-913a-c155d0ddb2ae.png)
+![Employee Database](https://user-images.githubusercontent.com/113023181/188866639-aaa04eba-8336-4fe1-9d81-8992ebd4fab3.png)
+
+## Instructions
+#### Requirements
+  * Web Browser
+  * Database Connection Token
+#### Execution
+* open `index.html` to open the Indec page
+#### Website
+* To go on any page
+  * click on the link
+* To come back on index page
+  * click <- arrow on Browser
+
+### Scope of functionalities
+* It is a very basic project for demonstration of JsonPowerDb with help of a web application. 
+* Can be further improved by addidng additional fields and can be made into a working DB manager.
