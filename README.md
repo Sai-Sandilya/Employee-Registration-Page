@@ -1,4 +1,4 @@
-# Employee-Registration-Page
+# Employee Registration Form
 Employee-Registration Page project using HTML and JsonPowerDB
 # About JsonPowerDB
 * "JavaScript Object Notation (JSON) is having explosive growth in recent years and is slowly becoming the de-facto standard for data and communication.
