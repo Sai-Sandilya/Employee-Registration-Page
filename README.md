@@ -1,8 +1,8 @@
 # Employee-Registration-Page
 Employee-Registration Page project using HTML and JsonPowerDB
 # About JsonPowerDB
-"JavaScript Object Notation (JSON) is having explosive growth in recent years and is slowly becoming the de-facto standard for data and communication.
-JsonPowerDB is a Technology Futuristic, Real-time, High Performance, Efficient, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, Geospatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development. JPDB fill the gap from database to bigdata"
+* "JavaScript Object Notation (JSON) is having explosive growth in recent years and is slowly becoming the de-facto standard for data and communication.
+* JsonPowerDB is a Technology Futuristic, Real-time, High Performance, Efficient, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, Geospatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development. JPDB fill the gap from database to bigdata"
 
 
 # Benefits of using JsonPowerDB
@@ -16,6 +16,6 @@ JsonPowerDB is a Technology Futuristic, Real-time, High Performance, Efficient, 
 
 
 # Release History
-v0.0.0 (27/02/2021)
-Initialization:
-[#1] Added basic designs of all planned HTML pages
+* v0.0.0 (27/02/2021)
+* Initialization:
+* [#1] Added basic designs of all planned HTML pages
