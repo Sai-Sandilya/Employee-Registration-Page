@@ -16,6 +16,6 @@ Employee-Registration Page project using HTML and JsonPowerDB
 
 
 # Release History
-* v0.0.0 (27/02/2021)
-* Initialization:
+ # v0.0.0 (27/02/2021)
+# Initialization:
 * [#1] Added basic designs of all planned HTML pages
