@@ -21,14 +21,12 @@ Employee-Registration Page project using HTML and JsonPowerDB
 - [#1] Added basic designs of all planned HTML pages
 
 
-
 ### Table of Content
 1. [Introduction](#introduction)
 2. [Screenshots](#screenshots)
 3. [Instructions](#instructions)
-   1. [Requirements](#requirements)
-   2. [Execution](#execution)
-   3. [Website](#website)
+4. [Scope of functionalities](#Scope of functionalities)
+
 ## Introduction
 In this project, you can do the following:
 1. Register a Employee.
@@ -42,9 +40,6 @@ In this project, you can do the following:
 ![Remove Method](https://user-images.githubusercontent.com/113023181/188870120-279ee57f-2629-4f8c-ba5d-1e7c1f526b4d.png)
 ![Employee Database](https://user-images.githubusercontent.com/113023181/188870124-cb65a61f-a1f6-4766-9a16-84b6026d49ff.png)
 
-
-
-
 ### Scope of functionalities
-* It is a very basic project for demonstration of JsonPowerDb with help of a web application. 
-* Can be further improved by addidng additional fields and can be made into a working DB manager.
+* This project demonstrates the use of JsonPowerDB with help of a web application. 
+* This project can further be improved by addidng additional fields and can be made into a working Employee Management Tool.
