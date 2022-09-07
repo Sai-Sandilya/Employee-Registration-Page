@@ -46,25 +46,15 @@ In this project, you can do the following:
 2. Update Mobile Number.
 3. Delete a specific Employee record.
 ## Screenshots
+![Jsonpowerdb homepage](https://user-images.githubusercontent.com/113023181/188870047-843bbe59-2739-47b5-8164-e5e606afffed.png)
+![Put Method](https://user-images.githubusercontent.com/113023181/188870077-31743dd8-c270-4c22-af80-f5f462086f97.png)
+![Get update](https://user-images.githubusercontent.com/113023181/188870100-29f40cd7-cd29-419c-9efa-a9fbf0539ed1.png)
+![Update method](https://user-images.githubusercontent.com/113023181/188870113-02385b98-e2e2-4407-b72e-1fb9eadaeda3.png)
+![Remove Method](https://user-images.githubusercontent.com/113023181/188870120-279ee57f-2629-4f8c-ba5d-1e7c1f526b4d.png)
+![Employee Database](https://user-images.githubusercontent.com/113023181/188870124-cb65a61f-a1f6-4766-9a16-84b6026d49ff.png)
 
-![jsonpowerdb homepage](https://user-images.githubusercontent.com/113023181/188866303-ed8794b1-52b0-45bb-a100-aef68442e3d7.png)
-![Put command](https://user-images.githubusercontent.com/113023181/188866376-b0bca126-6c53-433d-8392-26e09fc8610c.png)
-![Get command](https://user-images.githubusercontent.com/113023181/188866448-4b79346f-5dc3-4f81-9a01-a373f52d852b.png)
-![Remove command](https://user-images.githubusercontent.com/113023181/188866485-5e3e8479-a09b-4251-b459-ba689f8f8f63.png)
-![Update command](https://user-images.githubusercontent.com/113023181/188866528-b28f7365-a9d0-4e1f-913a-c155d0ddb2ae.png)
-![Employee Database](https://user-images.githubusercontent.com/113023181/188866639-aaa04eba-8336-4fe1-9d81-8992ebd4fab3.png)
 
-## Instructions
-#### Requirements
-  * Web Browser
-  * Database Connection Token
-#### Execution
-* open `index.html` to open the Indec page
-#### Website
-* To go on any page
-  * click on the link
-* To come back on index page
-  * click <- arrow on Browser
+
 
 ### Scope of functionalities
 * It is a very basic project for demonstration of JsonPowerDb with help of a web application. 
