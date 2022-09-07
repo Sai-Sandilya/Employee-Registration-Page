@@ -19,18 +19,7 @@ Employee-Registration Page project using HTML and JsonPowerDB
 #### v0.0.0 (27/02/2021)
 ##### Initialization:
 - [#1] Added basic designs of all planned HTML pages
----
-#### v0.1.0 (28/02/2021)
-##### Enhancements:
-- [#2] Designed all HTML pages
-- [#3] Added JS and connected pages to JsonPowerDB
-- [#4] Tested all pages
----
-#### v0.1.1 (01/03/2021)
-##### Enhancements:
-- [#5] Added a README.md file
-- [#6] Few CSS changes
----
+
 
 
 ### Table of Content
