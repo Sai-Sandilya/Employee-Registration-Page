@@ -33,13 +33,14 @@ In this project, you can do the following:
 2. Update Mobile Number.
 3. Delete a specific Employee record.
 ## Screenshots
+![Application form](https://user-images.githubusercontent.com/113023181/188897303-8593b36e-0e55-4bfa-8bf2-18f8b4345165.png)
 ![Jsonpowerdb homepage](https://user-images.githubusercontent.com/113023181/188870047-843bbe59-2739-47b5-8164-e5e606afffed.png)
 ![Put Method](https://user-images.githubusercontent.com/113023181/188870077-31743dd8-c270-4c22-af80-f5f462086f97.png)
 ![Get update](https://user-images.githubusercontent.com/113023181/188870100-29f40cd7-cd29-419c-9efa-a9fbf0539ed1.png)
 ![Update method](https://user-images.githubusercontent.com/113023181/188870113-02385b98-e2e2-4407-b72e-1fb9eadaeda3.png)
 ![Remove Method](https://user-images.githubusercontent.com/113023181/188870120-279ee57f-2629-4f8c-ba5d-1e7c1f526b4d.png)
 ![Employee Database](https://user-images.githubusercontent.com/113023181/188870124-cb65a61f-a1f6-4766-9a16-84b6026d49ff.png)
-![Application form](https://user-images.githubusercontent.com/113023181/188897303-8593b36e-0e55-4bfa-8bf2-18f8b4345165.png)
+
 ## Scope
 * This project demonstrates the use of JsonPowerDB with help of a web application. 
 * This project can further be improved by addidng additional fields and can be made into a working Employee Management Tool.
