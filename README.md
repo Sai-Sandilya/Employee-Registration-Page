@@ -25,7 +25,7 @@ Employee-Registration Page project using HTML and JsonPowerDB
 1. [Introduction](#introduction)
 2. [Screenshots](#screenshots)
 3. [Instructions](#instructions)
-4. [Scope of functionalities](#Scope of functionalities)
+4. [Scope of functionalities](#scope of functionalities)
 
 ## Introduction
 In this project, you can do the following:
